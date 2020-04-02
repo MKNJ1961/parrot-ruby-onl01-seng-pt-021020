@@ -9,9 +9,3 @@ def parrot("Pretty bird")
   puts "Pretty bird"
   return #{squawk}
 end
-
-
-
-
-
-  
